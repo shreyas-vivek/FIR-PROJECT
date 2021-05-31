@@ -1,0 +1,56 @@
+body,html {
+    width: 100%;
+    height: 100%;
+    background-color: #edd9cd;
+}
+.title {
+    position: static;
+    text-align: center;
+    font-size: 36px;
+    background-color: #b6533e;
+    color: #fff;
+}.container {
+    width: 100%;
+    height: 100%;
+}.info {
+    font-size: 24px;
+}.bottom {
+    width: 100%;
+    height: 25%;
+    position: absolute;
+    top: 570px;
+}#filefir {
+    position: absolute;
+    right: 70px;
+    top: 40px;
+    font-size: 26px;
+    background-color: #4babbb;
+    color: #3b4559;
+}.container_1 {
+    position: relative;
+    top: 0px;
+    width: 100%;
+    height: 80%;
+    font-size: 24px;
+}#form_1 {
+    position: relative;
+    height: 15%;
+    padding-right: 850px;
+    top: 15px;
+    text-align: right;
+}textarea {
+    width: 300px;
+    height: 80px;
+    padding: 10px;
+    resize: none;
+    margin-top: 0px;
+}table, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}td {
+    padding: 10px;
+}#noborder {
+    border: none;
+}#dob {
+    padding-right: 10px;
+}
